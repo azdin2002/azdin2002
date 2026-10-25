@@ -38,5 +38,6 @@ I build web applications and the automation that ships them. With 3+ years of ex
 
 ## 📫 Contact
 
-- LinkedIn: [azzeddine-salmoun](https://ma.linkedin.com/in/azzeddine-salmoun-81b193225)
-- Email: azzeddinesalmoun@gmail.com
+- 🌐 Portfolio: [azzeddine-salmoun.vercel.app](https://azzeddine-salmoun.vercel.app/)
+- 🔗 LinkedIn: [azzeddine-salmoun](https://ma.linkedin.com/in/azzeddine-salmoun-81b193225)
+- 📧 Email: azzeddinesalmoun@gmail.com
